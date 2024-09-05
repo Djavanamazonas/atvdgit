@@ -1,7 +1,7 @@
 /* Define estilo para a página */
 body {
     font-family: Arial, sans-serif;
-    background-color: #ebebeb;
+    background-color: #df2121;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -11,7 +11,7 @@ body {
 
 /* Define o estilo do contêiner de cadastro */
 .container {
-    background-color: #ffffff;
+    background-color: #640505;
     padding: 50px;
     border-radius: 10px;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
